@@ -1,4 +1,4 @@
-# CSPB-30202-Final-Project
+# CSPB-3202-Final-Project
 
 - ****Overview**** <br>
 > For this project I chose to use the Frozen Lake environment in OpenAI Gym. 
